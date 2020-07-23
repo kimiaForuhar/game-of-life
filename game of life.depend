@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545764836 source:c:\users\asus\desktop\game of life\main.c
+	<stdio.h>
+	<windows.h>
+
